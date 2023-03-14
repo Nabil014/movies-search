@@ -1,4 +1,4 @@
-﻿# Movies Search
+﻿## Movies Search
  Link: https://movies-search-omega-puce.vercel.app/
   
 Este proyecto es para una prueba técnica la cual tenia los siguientes requisitos:
